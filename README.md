@@ -19,7 +19,7 @@ Welcome to the Cookie Clicker Game! Click the cookie to increase your score and 
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Chemist26/Cookie-game.git```
+   git clone https://github.com/Chemist26/Cookie-game.git
 
 ## How to play
 - Open your preferred Java IDE.
