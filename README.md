@@ -2,12 +2,14 @@
 
 Welcome to the Cookie Clicker Game! Click the cookie to increase your score and enjoy the satisfying sound effects.
 
+![image](https://github.com/Chemist26/Cookie-game/assets/105496440/ccf38f54-9ff7-464f-adda-5df59d4b9e76)
+
 ## Table of Contents
 - [Introduction](#cookie-clicker-game)
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [Contact](mailto:stoikovantoan@gmail.com)
+- [Contact](#contact)
 
 ## Features
 - Click the cookie to increase your score.
