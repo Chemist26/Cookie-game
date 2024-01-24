@@ -14,7 +14,7 @@ Welcome to the Cookie Clicker Game! Click the cookie to increase your score and 
 ## Features
 - Click the cookie to increase your score.
 - Enjoy a delightful sound effect with each click.
-- Simple and intuitive user interface.
+- Simple and intuitive user interface. 
 
 ## Getting Started
 1. Clone the repository:
