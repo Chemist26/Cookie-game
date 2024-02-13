@@ -32,4 +32,3 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 ## Contact
 
 For any questions or concerns, please contact Antoan at [stoikovantoan@gmail.com](mailto:stoikovantoan@gmail.com).
-
